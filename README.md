@@ -9,4 +9,4 @@ calibrate: A python package contains methods for detecting corners and estimatin
 
 produceResults: A python package contains methods for drawing 3D squares, frame axis, box and deviation analyze
 
-demo: Main function
+demo.py: Main function
